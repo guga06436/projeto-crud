@@ -1,0 +1,2 @@
+# Projeto CRUD
+Projeto na linguagem C desenvolvido para a disciplina de Introdução à Programação da Universidade Federal da Paraíba no período de 2020.1. CRUD são as quatro operações básicas do desenvolvimento de uma aplicação: Create, Read, Update, Delete, sendo a temática escolhida para o projeto o desenvolvimento de um sistema de estoque genérico.
